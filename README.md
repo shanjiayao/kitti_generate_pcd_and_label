@@ -4,14 +4,14 @@
 
 - 传入参数：
   
-- `category`
-  
-  - 要创建数据集的类别，KITTI中包含的类别有
+  - `category`
     
+  - 要创建数据集的类别，KITTI中包含的类别有
+  
     ```python
       'Car', 'Van', 'Truck', 'Pedestrian', 'Person_sitting', 'Cyclist', 'Tram', 'Misc' or 'DontCare'
     ```
-    
+  
   - `dataset_path`
   
     - KITTI原始数据集的路径，此路径下应包含
